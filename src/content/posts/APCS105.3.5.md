@@ -1,5 +1,5 @@
 ---
-title: APCS 105年3月5日 程式設計實作題 
+title: APCS 105年3月5日 第1題 程式設計實作題 
 published: 2025-07-04
 tags: [APCS考古題]
 category: 程式解題日誌
