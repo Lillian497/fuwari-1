@@ -1,7 +1,7 @@
 ---
 title: Excel 公式計算
 published: 2025-07-05
-tags: [分析數據教學]
+tags: [分析數據]
 category: 分析數據教學
 draft: false
 ---
