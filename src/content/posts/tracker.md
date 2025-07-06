@@ -1,7 +1,7 @@
 ---
 title: Tracker 基礎使用方法
 published: 2025-07-05
-tags: [分析數據教學]
+tags: [分析數據]
 category: 分析數據教學
 draft: false
 ---
