@@ -1,5 +1,5 @@
 ---
-title: Zerojudgeu h082. 2. 贏家預測
+title: Zerojudgeu h082. 2. 贏家預測-第一子題
 published: 2025-07-06
 tags: [Zerojudgeu]
 category: 程式解題日誌
@@ -7,7 +7,7 @@ draft: false
 ---
 
 連結:https://zerojudge.tw/ShowProblem?problemid=h082
-#  Zerojudgeu h082. 2. 贏家預測
+#  Zerojudgeu h082. 2. 贏家預測-第一子題
 ```python
 def judge(power,m,c):
     f=rank[c]
