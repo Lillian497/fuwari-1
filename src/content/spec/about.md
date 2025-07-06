@@ -17,6 +17,6 @@ description: 關於我
 希望在這裡的每一篇文章，都能留下有意義的足跡。
 ---
 
-> ### 圖片來源
-> - [Unsplash](https://unsplash.com/)
-> - 插畫來自 [Stella](https://www.pixiv.net/users/93273965)
+> ### ㄜ
+> - ㄜㄜㄜㄜ
+> - ㄜㄜ
