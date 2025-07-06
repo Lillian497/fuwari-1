@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/demo-avatar.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "程式及實驗學習日記",
-	bio: "歡迎來到我的學習筆記，我記錄了自己的物理研究所學到之基礎知識，以及程式的解題日誌，希望能記錄我的學習，也讓別人更容易找到資源！",
+	bio: "歡迎來到我的學習筆記，我記錄了自己的物理研究所學到之基礎知識，以及程式的解題日誌！",
 	links: [
 		{
 			name: "Twitter",
