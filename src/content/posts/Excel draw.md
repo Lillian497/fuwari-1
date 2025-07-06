@@ -2,7 +2,7 @@
 title: Excel 畫圖
 published: 2025-07-05
 tags: [分析數據]
-category: 分析數據教學
+category: 分析數據
 draft: false
 ---
 
